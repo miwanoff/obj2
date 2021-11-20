@@ -32,7 +32,7 @@ let fiat = {
     this.fuel += amount;
   },
 };
-
+//Comment
 fiat.showFuel();
 fiat.addFuel(5);
 fiat.showFuel();
