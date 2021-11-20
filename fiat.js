@@ -43,3 +43,4 @@ fiat.drive();
 fiat.showFuel();
 fiat.drive();
 fiat.showFuel();
+fiat.drive();
